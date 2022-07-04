@@ -8,7 +8,7 @@ Simple application for developers to follow how to use EMP iOS SDKs using SPM Mo
 
 ## Installation
 
-nstallation can be done by cloning the repo  *iOSClientSimplePlayer* & update the packages to the latest
+installation can be done by cloning the repo  *iOSClientSimplePlayer* & update the packages to the latest
 
 
 ### Carthage
