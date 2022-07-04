@@ -11,12 +11,6 @@ Simple application for developers to follow how to use EMP iOS SDKs using SPM Mo
 installation can be done by cloning the repo  *iOSClientSimplePlayer* & update the packages to the latest
 
 
-### Carthage
-
-[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependency graph without interfering with your `Xcode` project setup. `CI` integration through [fastlane](https://github.com/fastlane/fastlane) is also available.
-
-Install *Carthage* through [Homebrew](https://brew.sh) by performing the following commands:
-
 ## Notes
 
 * Add your Base Url / CU / BU / SessionToken & `AssetId` before running the application
